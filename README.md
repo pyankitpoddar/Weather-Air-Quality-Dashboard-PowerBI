@@ -2,7 +2,7 @@
 
 This Power BI project offers a visually rich and interactive dashboard displaying real-time weather and air quality data for Noida and comparable cities. It’s designed for anyone needing actionable weather, pollution, and meteorological insights at a glance.
 
-https://app.powerbi.com/view?r=eyJrIjoiNTllYWJmMDAtNjMwNC00ZjQ3LWI5YzgtNWU5MDA2YTJlOGNkIiwidCI6ImFjZjRkYzIxLTAxYmUtNDlmNS1iN2UxLWFlMzYwOWJiZWJjNSJ9
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTllYWJmMDAtNjMwNC00ZjQ3LWI5YzgtNWU5MDA2YTJlOGNkIiwidCI6ImFjZjRkYzIxLTAxYmUtNDlmNS1iN2UxLWFlMzYwOWJiZWJjNSJ9)
 
 ---
 
